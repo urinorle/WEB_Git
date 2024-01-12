@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE flights [
+  <!ELEMENT flights (flight*)>
+  <!ELEMENT flight ((origin, destination) | (destination, origin))>
+  <!ELEMENT origin (#PCDATA)>
+  <!ELEMENT destination (#PCDATA)>
+]>
+
+
+<flights>
+  <flight>
+    <origin>Valencia (VLC)</origin>
+    <destination>London Heathrow (LHR)</destination>
+  </flight>
+  <flight>
+    <destination>Berlin Schönefeld (SFX)</destination>
+    <origin>Paris Charles de Gaulle (CDG)</origin>
+  </flight>
+</flights>

@@ -1,0 +1,22 @@
+<!ELEMENT ofertes_de_feina (feina*)>
+<!ELEMENT feina (requeriment, url, nom_empresa, logo, estudis, personal_a_carrec, vacants, sector, adreça, data_de_publicacio, descripcio, salari)>
+    <!ATTLIST feina id ID #REQUIRED>
+<!ELEMENT requeriment (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT nom_empresa (#PCDATA)>
+<!ELEMENT logo (#PCDATA)>
+<!ELEMENT estudis (estudis_minims, estudis_recomanats?)>
+    <!ELEMENT estudis_minims (#PCDATA)>
+    <!ELEMENT estudis_recomanats (#PCDATA)>
+<!ELEMENT personal_a_carrec (#PCDATA)>
+    <!ATTLIST personal_a_carrec posicio CDATA #IMPLIED>
+<!ELEMENT vacants (#PCDATA)>
+<!ELEMENT sector (#PCDATA)>
+<!ELEMENT adreça (#PCDATA)>
+<!ELEMENT data_de_publicacio (#PCDATA)>
+    <!ATTLIST data_de_publicacio format CDATA #REQUIRED>
+<!ELEMENT descripcio (#PCDATA)>
+<!ELEMENT salari (salari_minim, salari_maxim?)>
+    <!ATTLIST salari moneda CDATA #REQUIRED>
+    <!ELEMENT salari_minim (#PCDATA)>
+    <!ELEMENT salari_maxim (#PCDATA)>

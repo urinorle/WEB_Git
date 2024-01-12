@@ -1,0 +1,119 @@
+.menu {
+    /* ToDo: aplica les següents propietats:
+        display block, posició "relative", altura 76 píxels, ample 120 píxels, marges de 0 píxels i propietat overflow a "hidden"
+    */
+    display: block;
+    position: relative;
+    height: 76px;
+    width: 120px;
+    margin: 0;
+    overflow: hidden;
+}
+
+
+.menu.inici {
+    border-top: #ffc000 0.3em solid;
+}
+
+
+.menu.equip {
+    border-top: #b81800 0.3em solid;
+}
+
+
+.menu.projectes {
+    border-top: #00a53c 0.3em solid;
+}
+
+
+.menu.contacte {
+    border-top: #9600b4 0.3em solid;
+}
+
+
+
+
+.menu > span {
+    /* ToDo: aplica les següents propietats:
+        display block, posició "absolute", altura 0%, ample 100%, propietat overflow a "hidden"
+        i aplicar una transició de durada 0,5 segons i de tipus "ease-in-out"
+    */
+    display: block;
+    position: absolute;
+    height: 0;
+    width: 100%;
+    overflow: hidden;
+    transition: 0.5s ease-in-out;
+}
+
+
+.menu:after, .menu > span > span {
+    display: block;
+    text-align: center;
+    border-radius: 0;
+    padding: 2em 0 1.5em;
+}
+
+
+.menu:after {
+    content: attr(data-title);
+    width: 100%;
+    background: #000;
+    color: #fff;
+}
+
+
+.menu > span > span {
+    width: 120px;
+    color: #fff;
+}
+
+
+.menu.inici > span > span {
+    background: #ffc000;
+}
+
+
+.menu.projectes > span > span {
+    background: #00a53c;
+}
+
+
+.menu.equip > span > span {
+    background: #b81800;
+}
+
+
+.menu.contacte > span > span {
+    background: #9600b4;
+}
+
+
+
+
+.menu:hover > span {
+    /* ToDo: respon a les següents preguntes en un comentari aquí, dins del CSS:
+       1) què passa si aquí definim una altura del 55%? Que la caixa de color només desplaça la meitat del trajecte.
+       2) com aconseguim l'efecte de sobreescriure text amb l'animació? Es solapa el text amb el de la caixa superior.
+       3) Per què apliquem dues etiquetes "span" a cada item? Per que els efectes que apliquem a l'span no s'apliquin
+       a la caixa superior.
+    */
+    height: 100%;
+}
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+li a {
+    display: inline;
+    float: left;
+    text-decoration: none;
+    font-family: sans, sans-serif;
+}

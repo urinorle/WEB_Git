@@ -1,0 +1,78 @@
+body {
+    margin-top: 100px;
+    background: url(../img/fondo.jpeg) no-repeat;
+    background-size: cover;
+
+}
+h1 {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.reqlogin {
+    border: 7px solid black;
+    background-color: #a7e5ff;
+    width: 25%;
+    margin: auto;
+    border-radius: 8%;
+    opacity: 80%;
+}
+img {
+    border-radius: 50%;
+    border: 8px solid palegreen;
+}
+.img1 {
+    text-align: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+.login {
+    text-align: center;
+    margin: 40px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana, sans-serif;
+}
+.button1 {
+    margin: 20px;
+    padding: 10px;
+    width: 20%;
+    border-radius: 40px;
+    transition: .4s;
+}
+.button1:hover {
+    background-color: #91ff8b;
+    color: darkolivegreen;
+
+}
+.reqtext {
+    padding: 10px;
+    width: 45%;
+    margin: 10px;
+    transition: .4s;
+    border-radius: 20px;
+}
+.reqtext:hover {
+    background-color: #91ff8b;
+}
+.container1 {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #0099cc;
+    padding: 2px;
+    display: inline-block;
+}
+@media screen and (max-width: 600px) {
+
+}
+
+
+
+

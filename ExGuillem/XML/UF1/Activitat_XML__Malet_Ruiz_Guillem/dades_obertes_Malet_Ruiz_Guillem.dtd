@@ -1,0 +1,12 @@
+<!ELEMENT response (rows)>
+<!ELEMENT rows (row+)>
+<!ELEMENT row (id_area, ubicazione, stalli, longitude, latitude)>
+    <!ATTLIST row _id CDATA #REQUIRED>
+    <!ATTLIST row _uuid CDATA #REQUIRED>
+    <!ATTLIST row _position CDATA #REQUIRED>
+    <!ATTLIST row _address CDATA #REQUIRED>
+<!ELEMENT id_area (#PCDATA)>
+<!ELEMENT ubicazione (#PCDATA)>
+<!ELEMENT stalli (#PCDATA)>
+<!ELEMENT longitude (#PCDATA)>
+<!ELEMENT latitude (#PCDATA)>

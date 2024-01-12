@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE messages [
+  <!ELEMENT messages (message*)> 
+  <!ELEMENT message (from, to, time, text)> 
+  <!ELEMENT from (#PCDATA)>
+  <!ELEMENT to (#PCDATA)>
+  <!ELEMENT time (#PCDATA)>
+  <!ELEMENT text ANY>
+  <!ELEMENT strong (#PCDATA)>
+]>
+
+
+<messages>
+  <message>
+    <from>Pepe (pepe@example.com)</from>
+    <to>Juan (juan@example.com)</to>
+    <time> 28/02/2011 17:48:23,61</time>
+    <text>Hello, Juan, what are you doing?</text>
+  </message>
+  <message>
+    <from>Juan (juan@example.com)</from>
+    <to>Pepe (pepe@example.com)</to>
+    <time>28/02/2011 17:54:20,87</time>
+    <text>Here, learning <strong>XML</strong ></text>
+  </message>
+</messages>

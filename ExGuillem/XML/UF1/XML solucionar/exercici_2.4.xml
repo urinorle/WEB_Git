@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE shoppingList [
+  <!ELEMENT shoppingList (item*)>
+  <!ELEMENT item EMPTY>
+  <!ATTLIST item name CDATA #REQUIRED>
+  <!ATTLIST item amount CDATA #REQUIRED>
+]>
+
+
+<shoppingList>
+  <item name="leche" amount="12 litros" />
+  <item name="huevos" amount="3 barras de cuarto" />
+</shoppingList>

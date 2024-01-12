@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+}
+.row {
+    height: 50vh;
+}
+div {
+    height: 8px;
+    text-align: center;
+    line-height: 80px;
+    justify-content: center;
+}
+.par {
+    background-color: black;
+    color: white;
+}
+.impar {
+    background-color: blue;
+    color: white;
+}
+@media (max-width: 768px) {
+    .container-lg .row {
+        flex-direction: column !important;
+    }
+}

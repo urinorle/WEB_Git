@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE musicians [
+  <!ELEMENT musicians (musician*)>
+  <!ELEMENT musician ((name | nickname), birthDate)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT nickname (#PCDATA)>
+  <!ELEMENT birthDate (#PCDATA)>
+]>
+
+
+<musicians>
+  <musician>
+    <nickname>El cura pelirrojillo</nickname>
+    <birthDate>4th March, 1678</birthDate>
+  </musician>
+  <musician>
+    <nickname>El viejo pelucia</nickname>
+    <birthDate>March 21, 1685</birthDate>
+  </musician>
+</musicians>

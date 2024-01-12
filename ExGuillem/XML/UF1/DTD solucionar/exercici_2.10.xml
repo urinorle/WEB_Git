@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book [
+  <!ELEMENT book EMPTY>
+  <!ATTLIST book author CDATA #REQUIRED>
+]>
+
+
+<book author="Mario Vargas Llosa" />

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE response SYSTEM "dades_obertes_Malet_Ruiz_Guillem.dtd">
+<response>
+<rows>
+<row _id="row-tne3_52db~yix5" _uuid="00000000-0000-0000-C2B0-02CC6E7819F0" _position="0" _address="https://www.dati.lombardia.it/resource/mf65-yzqa/row-tne3_52db~yix5">
+<id_area>1</id_area>
+<ubicazione>Comune:CENATE SOTTO, Indirizzo:VIA DON BRIGNOLI, Civico:2, Provincia:BG, Codice_catastale:C457, Cap:24069</ubicazione>
+<stalli>1</stalli>
+<longitude>0</longitude>
+<latitude>0</latitude>
+</row>
+<row _id="row-ygbu_m2w4.i2fv" _uuid="00000000-0000-0000-C28E-530442B0482E" _position="0" _address="https://www.dati.lombardia.it/resource/mf65-yzqa/row-ygbu_m2w4.i2fv">
+<id_area>2</id_area>
+<ubicazione>Comune:CENATE SOTTO, Indirizzo:VIA A. MORO, Civico:SNC, Provincia:BG, Codice_catastale:C457, Cap:24069</ubicazione>
+<stalli>1</stalli>
+<longitude>0</longitude>
+<latitude>0</latitude>
+</row>
+<row _id="row-ewq9_vrwr~jghm" _uuid="00000000-0000-0000-F6D2-434722B80788" _position="0" _address="https://www.dati.lombardia.it/resource/mf65-yzqa/row-ewq9_vrwr~jghm">
+<id_area>3</id_area>
+<ubicazione>Comune:CENATE SOTTO, Indirizzo:VIA VERDI, Civico:SNC, Provincia:BG, Codice_catastale:C457, Cap:24069</ubicazione>
+<stalli>1</stalli>
+<longitude>0</longitude>
+<latitude>0</latitude>
+</row>
+<row _id="row-ff4c~dds9~x3x6" _uuid="00000000-0000-0000-C174-3B32E2319236" _position="0" _address="https://www.dati.lombardia.it/resource/mf65-yzqa/row-ff4c~dds9~x3x6">
+<id_area>4</id_area>
+<ubicazione>Comune:CENATE SOTTO, Indirizzo:VIA LOCATELLI, Civico:SNC, Provincia:BG, Codice_catastale:C457, Cap:24069</ubicazione>
+<stalli>1</stalli>
+<longitude>0</longitude>
+<latitude>0</latitude>
+</row>
+</rows>
+</response>

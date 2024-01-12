@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE football [
+  <!ELEMENT football (player*)>
+  <!ELEMENT player EMPTY>
+  <!ATTLIST player name NMTOKENS #REQUIRED>
+  <!ATTLIST player code ID #REQUIRED>
+]>
+
+
+<football>
+  <player name="AlfredoDiStéfano" code="a"/>
+  <player name="EdsonArantesdoNascimento Pele" code="b" />
+  <player name="DiegoArmandoMaradona" code="c" />
+  <player name="JohanCruyff" code="d" />
+</football>

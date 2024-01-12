@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MortadeloAlbums [
+  <!ELEMENT MortadeloAlbums (album*)>
+  <!ELEMENT album EMPTY>
+  <!ATTLIST album name CDATA #REQUIRED>
+  <!ATTLIST album date CDATA #REQUIRED>
+]>
+
+
+<MortadeloAlbums>
+  <album name="El sulfato atómico" date="1969"/>
+  <album name="La caja de diez cerrojos" date="1971"/>
+  <album name="El otro yo del profesor Bacterio" date="1973"/>
+  <album name="Los cacharros majaretas" date="1974"/>
+</MortadeloAlbums>

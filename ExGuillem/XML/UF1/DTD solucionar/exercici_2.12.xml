@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE thingsToDo [
+  <!ELEMENT thingsToDo (item*)>
+  <!ELEMENT item ANY>
+  <!ATTLIST item date CDATA #REQUIRED>
+  <!ATTLIST item dueDate CDATA #REQUIRED>
+]>
+
+
+<thingsToDo>
+  <item date="20 de febrero de 2011" dueDate="1 de marzo de 2011">
+  Preparar Exercises de DTDs</item>
+  <item date="21 de febrero de 2011" dueDate="5 de marzo de 2011">
+  Preparar tema XSLT</item>
+</thingsToDo>

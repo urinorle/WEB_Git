@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<books> <!-- Afegiria aquesta etiqueta root per poder afegir mes llibres -->
+    <book edition = "2"> <!-- Afegiria com a atribut el isbn del llibre per tal de no acumular etiquetes -->
+    <tittle> Training Your Pet  Ferret </tittle>
+    <authors>
+      <author> Gerry Bucsis </author>
+      <author> Barabara Somerville </author>
+    </authors>
+    <isbn> 978-0-7641-4223-9 </isbn>
+    <dimensions width = "162.56mm" height = "195.58mm" depth = "10.16mm" pages = "96"></dimensions>
+    </book>
+</books>

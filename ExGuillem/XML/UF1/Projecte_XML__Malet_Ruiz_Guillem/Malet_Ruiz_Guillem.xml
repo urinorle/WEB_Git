@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ofertes_de_feina SYSTEM "Malet_Ruiz_Guillem.dtd">
+<ofertes_de_feina>
+    <feina id="a01">
+      <requeriment>Programador VB, VB.NET, C++, JAVA</requeriment>
+      <url>https://www.infojobs.net/lleida/programador-vb-vb.net-c-java/of-iaaf71ff48c4a728ab783a97fd11399?applicationOrigin=search-new%quot;7Cversion%quot;7Ebackpack_sorted_no_norm&amp;page=1&amp;sortBy=RELEVANCE</url>
+      <nom_empresa>ONAPA SEINTOSOFT SL.</nom_empresa>
+      <logo>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6eRUQyJ1BicebFfSmFKONA-sRPGaplCCepVx9s8VCw&amp;s</logo>
+     <estudis>
+      <estudis_minims>Ciclo Formativo Grado Superior - Técnico Superior en Desarrollo de Aplicaciones Multiplataforma</estudis_minims>
+      <estudis_recomanats></estudis_recomanats>
+     </estudis>
+     <personal_a_carrec posicio="">0</personal_a_carrec>
+     <vacants>1</vacants>
+     <sector>Informática y telecomunicaciones - Programación</sector>
+     <adreça>Lleida, Lleida (España)</adreça>
+     <data_de_publicacio format="DD/MM/AA">27/09/23</data_de_publicacio>
+     <descripcio>Programador para lenguajes VB, VB.NET, C++, JAVA, Android,SQL, PHP, MYSQL se valorará experiencia en todos los lenguajes, así como compromisos y capacidad de aprendizaje.</descripcio>
+     <salari moneda="euros">
+        <salari_minim>30.000</salari_minim>
+        <salari_maxim>70.000</salari_maxim>
+      </salari>
+    </feina>
+        <feina id="a02">
+      <requeriment>Cocineros/as Amsterdam</requeriment>
+      <url>https://www.infojobs.net/valencia/cocineros-amsterdam-grupo-sagardi/of-i9d80e700ff476985cc82223a0faa7a?applicationOrigin=search-new%7Cversion%7Ebackpack_sorted_no_norm&amp;page=1&amp;sortBy=RELEVANCE</url>
+      <nom_empresa>Grupo Sagardi.</nom_empresa>
+      <logo>data:image/png;base64,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</logo>
+     <estudis>
+      <estudis_minims>Ciclo Formativo Grado Superior</estudis_minims>
+      <estudis_recomanats></estudis_recomanats>
+     </estudis>
+     <personal_a_carrec posicio="">0</personal_a_carrec>
+     <vacants>8</vacants>
+     <sector>Turismo y restauración - Restauración</sector>
+     <adreça>València (España)</adreça>
+     <data_de_publicacio format="DD/MM/AA">23/09/23</data_de_publicacio>
+     <descripcio>
+¿Eres un apasionado de la cocina tradicional vasca y mexicana?¿Sueñas con llevar tus habilidades culinarias al siguiente nivel y explorar nuevas oportunidades en el extranjero? ¡Esta es tu oportunidad!
+
+Somos Grupo Sagardi, una empresa de restauración española que cuenta con un proyecto internacional en plena expansión. En 2019, abrimos el restaurante Sagardi, en pleno corazón de Amsterdam, para llevar la cultura, la gastronomía y la tradición de la mesa vasca fuera de las fronteras nacionales.
+
+A las puertas de ampliar el proyecto holandés, queremos conocer nuevo talento valenciano que desee unirse a nuestras cocinas y ofrecer trocitos de felicidad a nuestros comensales. Los compañeros que forman parte de nuestro equipo son personas con grandes objetivos profesionales y con proyección de crecer dentro de la empresa.
+
+Estamos seleccionando cocineros y cocineras, con experiencia mínima de un año en servicio de restaurante y vocación por la gastronomía.
+
+¿Qué vas a hacer en Sagardi?
+
+Buscamos cocinero/as de restaurante que se responsabilicen de:
+
+* Mantener la calidad de la producción y mise-en-place del servicio diario.
+* Control del stock y buena conservación del mismo usando el sistema FIFO.
+* Cumplir con el procedimiento APPCC establecido y las normas de seguridad e higiene.
+* Mantenimiento y orden de la cocina y zona de trabajo.
+* Atender a todas las tareas asignadas por el jefe de cocina.
+* Hacer el servicio en los tiempos requeridos.
+
+¿Qué beneficios ofrecemos?
+
+* Incorporación a un grupo sólido con presencia nacional e internacional.
+* Pertenecer a una compañía internacional con posibilidades en otras ciudades.
+* Treinta y cinco días naturales de vacaciones.
+* Formación específica y constante en gastronomía y restauración.
+* Disponer de una tarjeta con descuento en todos los restaurantes del grupo.
+* Disfrutar de un buen ambiente de trabajo, profesional y dentro de un grupo consolidado.
+     </descripcio>
+     <salari moneda="euros">
+        <salari_minim>UNKNOWN</salari_minim>
+        <salari_maxim></salari_maxim>
+      </salari>
+    </feina>
+        <feina id="a03">
+      <requeriment>CAMARERO/A HOTEL 5*</requeriment>
+      <url>https://www.infojobs.net/valverdon/camarero-hotel-5*/of-if5c88a888d41ddba2d35eec5bd41c7?applicationOrigin=search-new%7Cversion%7Ebackpack_sorted_no_norm&amp;page=1&amp;sortBy=RELEVANCE</url>
+      <nom_empresa>THE HACIENDAS COMPANY</nom_empresa>
+      <logo>https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/ee/eeba1717-ae71-4cc2-b740-af8834df55a5?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTc0ODg3NzEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9lZS9lZWJhMTcxNy1hZTcxLTRjYzItYjc0MC1hZjg4MzRkZjU1YTUiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.RcfnAN-pikyiw4ihClq31JQurx8KcwFI6fX3UjsoUucXbtcgA13Qn2rs7BG_sVsVVOo3-s2MnI_UBDvnwMfBvIZx5nOKEnG85flQYJDkg2UnJPnJ-S4syY1mlTInvK_mqfrEGfGOx-s2lwZ5E-ADb6Qsk60AtSywmGy3XQFSLNsbFcBU1pYAyiq0L3VlVNiGuhO_sxa4P9e4KjtABgwIOueWKF5Eqti8R6aitDPM3wD_ipUVeazwa2rBwQVlGQoRPwpY9dZVHE2Y0WOvh3Wsm-KpOnOdKocw0CrvxScFtNGunDgK-Z78Z7iWmSHmnRVPrlip1xHmSgpCbq-jK86-Uw&amp;AccessKeyId=d724d9a53d95a810</logo>
+     <estudis>
+      <estudis_minims>Educación Secundaria Obligatoria</estudis_minims>
+      <estudis_recomanats></estudis_recomanats>
+     </estudis>
+     <personal_a_carrec posicio="">0</personal_a_carrec>
+     <vacants>1</vacants>
+     <sector>Turismo y restauración - Hostelería</sector>
+     <adreça>Valverdón, Salamanca (España)</adreça>
+     <data_de_publicacio format="DD/MM/AA">28/09/23</data_de_publicacio>
+     <descripcio>
+     CAMARER@ RESTAURANTE HOTEL 5*
+
+Hacienda Zorita Hotels &amp; Villas, se ha convertido en un hotel de referencia a nivel internacional, reconocido por la prestigiosa marca Small Luxury Hotels, donde potenciamos nuestras experiencias junto unos excelentes servicios de alojamiento unidos a lo mejor de nuestra gastronomía.
+
+En la actualidad estamos buscando un CAMARERO/A. Si tienes experiencia como Camarero/a y quieres incorporarte a una empresa líder dentro del sector de la hostelería de lujo, ¡este es tu sitio!
+Nuestro emblemático hotel de 5* HACIENDA ZORITA WINE HOTEL &amp; SPA, está ubicado en Valverdón (Salamanca), a tan solo 12 Km de Salamanca.
+
+¿QUÉ BUSCAMOS?
+Buscamos Camarero/a con amplio conocimiento sobre vinos, con un nivel de inglés alto y con experiencia en el sector.
+
+¿A qué esperas para unirte a HACIENDA ZORITA WINE HOTEL &amp; SPA?
+
+Visítanos en https://haciendazorita.com/
+
+¡Te esperamos!
+     </descripcio>
+     <salari moneda="euros">
+        <salari_minim>1.400</salari_minim>
+        <salari_maxim>1.700</salari_maxim>
+      </salari>
+    </feina>
+</ofertes_de_feina>

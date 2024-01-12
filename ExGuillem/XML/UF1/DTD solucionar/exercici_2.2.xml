@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Ephemeris_plural[
+  <!ELEMENT Ephemeris_plural (ephemeris*)>
+  <!ELEMENT ephemeris (date, event)>
+  <!ELEMENT date (#PCDATA)>
+  <!ELEMENT event (#PCDATA)>
+]>
+
+
+<Ephemeris_plural>
+  <ephemeris>
+    <date>July 20, 1969</date>
+    <event>Landing men on the Moon</event>
+  </ephemeris>
+  <ephemeris>
+    <date>October 12, 1492</date>
+    <event> Arrival of Columbus in America</event>
+  </ephemeris>
+  <ephemeris>
+    <date>April 6, 1909</date>
+    <event>arrival of Robert Peary at the North Pole</event>
+  </ephemeris>
+</Ephemeris_plural>

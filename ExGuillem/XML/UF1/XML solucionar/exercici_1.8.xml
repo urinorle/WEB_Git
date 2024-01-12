@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agenda [
+  <!ELEMENT agenda (contact*)>
+  <!ELEMENT contact (number, deskPhone*, mobilePhone+)>
+  <!ELEMENT number (#PCDATA)>
+  <!ELEMENT deskPhone (#PCDATA)>
+  <!ELEMENT mobilePhone (#PCDATA)>
+]>
+
+
+<agenda>
+  <contact>
+    <number>ds</number>
+    <deskPhone>010</deskPhone>
+    <mobilePhone>Unknown</mobilePhone>
+  </contact>
+  <contact>
+    <number>ds</number>
+    <deskPhone>911 (United States)</deskPhone>
+    <deskPhone>112 (European Union)</deskPhone >
+    <mobilePhone>Unknown</mobilePhone>
+  </contact>
+</agenda>

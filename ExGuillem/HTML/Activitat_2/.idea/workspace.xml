@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86ae6e50-baf9-4a54-a5b2-77bfede01243" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/HTML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activitat_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activitat_1/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activitat_1/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activitat_1/Exercici_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activitat_1/Exercici_10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activitat_1/Exercici_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activitat_1/Exercici_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activitat_1/Exercici_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activitat_1/Exercici_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activitat_1/Exercici_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activitat_1/Exercici_7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activitat_1/Exercici_8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activitat_1/Exercici_9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activitat_1/imatges/haciendas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activitat_1/imatges/onapa logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activitat_1/imatges/sagardi.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\php\php.exe" />
+  <component name="ProjectId" id="2WyICmaeGuaol6jbvSF8YdHkI1H" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86ae6e50-baf9-4a54-a5b2-77bfede01243" name="Changes" comment="" />
+      <created>1697698268244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697698268244</updated>
+      <workItem from="1697698269275" duration="3032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

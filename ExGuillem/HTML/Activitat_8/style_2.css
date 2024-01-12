@@ -1,0 +1,143 @@
+.container{
+    position: relative;
+}
+.item{
+    width: 180px;
+    height: 180px;
+    background-color: #30B037;
+    color: #FFF;
+    text-align: center;
+    line-height: 180px;
+    margin: 15px;
+    float: left;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+.item1{
+    /* ToDo: afegeix una transició de:
+          Tipus: lineal
+          Durada: 1 segon
+          Acció: canvia el color de fons de vermell a blau
+          Trigger: quan es passa el ratolí per sobre
+    */
+    transition: linear 1s;
+    background-color: red;
+}
+.item1:hover {
+    background-color: blue;
+}
+
+
+
+
+.item2{
+    background-color: #9B59B6;
+    /* ToDo: afegeix una transició de:
+          Tipus: "ease"
+          Durada: 1 segon
+          Acció: canvia la mida de la font a 28 píxels
+          Trigger: quan es passa el ratolí per sobre
+    */
+    transition: ease 1s;
+}
+.item2:hover {
+    font-size: 28px;
+}
+
+
+
+
+.item3{
+    font-size: 20px;
+    background-color: skyblue;
+    /* ToDo: afegeix una transició de:
+          Tipus: lineal
+          Durada: 1 segon
+          Acció: canvia el color del text a vermell
+          Trigger: quan es passa el ratolí per sobre
+    */
+    transition: linear 1s;
+}
+.item3:hover {
+    color: red;
+}
+
+
+
+
+
+
+.item4{
+    background-color: #3498DB;
+    /* ToDo: afegeix una transició de:
+          Tipus: lineal
+          Durada: 1 segon
+          Acció: desplaça només el text (no tota la caixa) 300 px cap a baix
+          Trigger: quan es passa el ratolí per sobre
+    */
+    transition: linear 1s;
+}
+.item4:hover {
+    line-height: 300px;
+}
+
+
+
+
+.item5{
+    background-color: #17A589;
+    /* ToDo: afegeix una transició de:
+          Tipus: lineal
+          Durada: 1 segon
+          Acció: arrodoneix les vores
+          Trigger: quan es passa el ratolí per sobre
+    */
+    transition: linear 1s;
+}
+.item5:hover {
+    border-radius: 20%;
+}
+
+
+
+
+.item6{
+    background-color: #F1C40F;
+    /* ToDo: afegeix una transició de:
+      Tipus: lineal
+      Durada: 1 segon
+      Acció: aplica un sombrejat de color gris
+      Trigger: quan es passa el ratolí per sobre
+    */
+    transition: linear 1s;
+}
+.item6:hover {
+    box-shadow: 0 0 10px black;
+}
+.item7 {
+    transition: linear 1s;
+}
+.item7:hover { /* Canvia la opacitat de la caixa. */
+    opacity: 10%;
+}
+.item8 {
+    background-color: mediumpurple;
+    transition: linear 1s;
+}
+.item8:hover { /* Augmenta el width en un 20, es a dir que la caixa s'estira. */
+    width: 20%;
+}
+.item9 {
+    background-color: yellowgreen;
+    transition: linear 1s;
+}
+.item9:hover { /* Es produeix una rotacio de 90 graus. */
+    rotate: 90deg;
+}
+.item10 {
+    background-color: cornflowerblue;
+    transition: linear 1s;
+}
+.item10:hover { /* Arrodoneix els costats fins a un cercle complet. */
+    border-radius: 100%;
+}

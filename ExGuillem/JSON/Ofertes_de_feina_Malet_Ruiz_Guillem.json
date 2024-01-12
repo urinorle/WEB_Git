@@ -1,0 +1,90 @@
+{
+  "ofertes_de_feina": {
+    "feines": [
+      {
+        "@id": "a01",
+        "requeriment": "Programador VB, VB.NET, C++, JAVA",
+        "url": "https://www.infojobs.net/lleida/programador-vb-vb.net-c-java/of-iaaf71ff48c4a728ab783a97fd11399?applicationOrigin=search-new%quot;7Cversion%quot;7Ebackpack_sorted_no_norm&page=1&sortBy=RELEVANCE",
+        "nom_empresa": "ONAPA SEINTOSOFT SL.",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6eRUQyJ1BicebFfSmFKONA-sRPGaplCCepVx9s8VCw&s",
+        "estudis": {
+          "estudis_minims": "Ciclo Formativo Grado Superior - Técnico Superior en Desarrollo de Aplicaciones Multiplataforma",
+          "estudis_recomanats": null
+        },
+        "personal_a_carrec": {
+          "posicio": null,
+          "value": "0"
+        },
+        "vacants": "1",
+        "sector": "Informática y telecomunicaciones - Programación",
+        "adreça": "Lleida, Lleida (España)",
+        "data_de_publicacio": {
+          "@format": "DD/MM/AA",
+          "value": "27/09/23"
+        },
+        "descripcio": "Programador para lenguajes VB, VB.NET, C++, JAVA, Android,SQL, PHP, MYSQL se valorará experiencia en todos los lenguajes, así como compromisos y capacidad de aprendizaje.",
+        "salari": {
+          "@moneda": "euros",
+          "salari_minim": "30.000",
+          "salari_maxim": "70.000"
+        }
+      },
+      {
+        "@id": "a02",
+        "requeriment": "Cocineros/as Amsterdam",
+        "url": "https://www.infojobs.net/valencia/cocineros-amsterdam-grupo-sagardi/of-i9d80e700ff476985cc82223a0faa7a?applicationOrigin=search-new%7Cversion%7Ebackpack_sorted_no_norm&page=1&sortBy=RELEVANCE",
+        "nom_empresa": "Grupo Sagardi.",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6eRUQyJ1BicebFfSmFKONA-sRPGaplCCepVx9s8VCw&s",
+        "estudis": {
+          "estudis_minims": "Ciclo Formativo Grado Superior",
+          "estudis_recomanats": null
+        },
+        "personal_a_carrec": {
+          "posicio": null,
+          "value": "0"
+        },
+        "vacants": "8",
+        "sector": "Turismo y restauración - Restauración",
+        "adreça": "València (España)",
+        "data_de_publicacio": {
+          "@format": "DD/MM/AA",
+          "value": "23/09/23"
+        },
+        "descripcio": "¿Eres un apasionado de la cocina tradicional vasca y mexicana?¿Sueñas con llevar tus habilidades culinarias al siguiente nivel y explorar nuevas oportunidades en el extranjero? ¡Esta es tu oportunidad! Somos Grupo Sagardi, una empresa de restauración española que cuenta con un proyecto internacional en plena expansión. En 2019, abrimos el restaurante Sagardi, en pleno corazón de Amsterdam, para llevar la cultura, la gastronomía y la tradición de la mesa vasca fuera de las fronteras nacionales. A las puertas de ampliar el proyecto holandés, queremos conocer nuevo talento valenciano que desee unirse a nuestras cocinas y ofrecer trocitos de felicidad a nuestros comensales. Los compañeros que forman parte de nuestro equipo son personas con grandes objetivos profesionales y con proyección de crecer dentro de la empresa. Estamos seleccionando cocineros y cocineras, con experiencia mínima de un año en servicio de restaurante y vocación por la gastronomía. ¿Qué vas a hacer en Sagardi? Buscamos cocinero/as de restaurante que se responsabilicen de: * Mantener la calidad de la producción y mise-en-place del servicio diario. * Control del stock y buena conservación del mismo usando el sistema FIFO. * Cumplir con el procedimiento APPCC establecido y las normas de seguridad e higiene. * Mantenimiento y orden de la cocina y zona de trabajo. * Atender a todas las tareas asignadas por el jefe de cocina. * Hacer el servicio en los tiempos requeridos. ¿Qué beneficios ofrecemos? * Incorporación a un grupo sólido con presencia nacional e internacional. * Pertenecer a una compañía internacional con posibilidades en otras ciudades. * Treinta y cinco días naturales de vacaciones. * Formación específica y constante en gastronomía y restauración. * Disponer de una tarjeta con descuento en todos los restaurantes del grupo. * Disfrutar de un buen ambiente de trabajo, profesional y dentro de un grupo consolidado.",
+        "salari": {
+          "@moneda": "euros",
+          "salari_minim": "UNKNOWN",
+          "salari_maxim": null
+        }
+      },
+      {
+        "@id": "a03",
+        "requeriment": "CAMARERO/A HOTEL 5*",
+        "url": "https://www.infojobs.net/valverdon/camarero-hotel-5*/of-if5c88a888d41ddba2d35eec5bd41c7?applicationOrigin=search-new%7Cversion%7Ebackpack_sorted_no_norm&page=1&sortBy=RELEVANCE",
+        "nom_empresa": "THE HACIENDAS COMPANY",
+        "logo": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/ee/eeba1717-ae71-4cc2-b740-af8834df55a5?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTc0ODg3NzEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9lZS9lZWJhMTcxNy1hZTcxLTRjYzItYjc0MC1hZjg4MzRkZjU1YTUiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.RcfnAN-pikyiw4ihClq31JQurx8KcwFI6fX3UjsoUucXbtcgA13Qn2rs7BG_sVsVVOo3-s2MnI_UBDvnwMfBvIZx5nOKEnG85flQYJDkg2UnJPnJ-S4syY1mlTInvK_mqfrEGfGOx-s2lwZ5E-ADb6Qsk60AtSywmGy3XQFSLNsbFcBU1pYAyiq0L3VlVNiGuhO_sxa4P9e4KjtABgwIOueWKF5Eqti8R6aitDPM3wD_ipUVeazwa2rBwQVlGQoRPwpY9dZVHE2Y0WOvh3Wsm-KpOnOdKocw0CrvxScFtNGunDgK-Z78Z7iWmSHmnRVPrlip1xHmSgpCbq-jK86-Uw&AccessKeyId=d724d9a53d95a810",
+        "estudis": {
+          "estudis_minims": "Educación Secundaria Obligatoria",
+          "estudis_recomanats": null
+        },
+        "personal_a_carrec": {
+          "posicio": null,
+          "value": "0"
+        },
+        "vacants": "1",
+        "sector": "Turismo y restauración - Hostelería",
+        "adreça": "Valverdón, Salamanca (España)",
+        "data_de_publicacio": {
+          "@format": "DD/MM/AA",
+          "value": "28/09/23"
+        },
+        "descripcio": "CAMARER@ RESTAURANTE HOTEL 5* Hacienda Zorita Hotels & Villas, se ha convertido en un hotel de referencia a nivel internacional, reconocido por la prestigiosa marca Small Luxury Hotels, donde potenciamos nuestras experiencias junto unos excelentes servicios de alojamiento unidos a lo mejor de nuestra gastronomía. En la actualidad estamos buscando un CAMARERO/A. Si tienes experiencia como Camarero/a y quieres incorporarte a una empresa líder dentro del sector de la hostelería de lujo, ¡este es tu sitio! Nuestro emblemático hotel de 5* HACIENDA ZORITA WINE HOTEL & SPA, está ubicado en Valverdón (Salamanca), a tan solo 12 Km de Salamanca. ¿QUÉ BUSCAMOS? Buscamos Camarero/a con amplio conocimiento sobre vinos, con un nivel de inglés alto y con experiencia en el sector. ¿A qué esperas para unirte a HACIENDA ZORITA WINE HOTEL & SPA? Visítanos en https://haciendazorita.com/ ¡Te esperamos!",
+        "salari": {
+          "@moneda": "euros",
+          "salari_minim": "1.400",
+          "salari_maxim": "1.700"
+        }
+      }
+    ]
+  }
+}

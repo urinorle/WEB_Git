@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE spanishMonarchs [
+  <!ELEMENT spanishMonarchs ((king* | queen)*)>
+  <!ELEMENT king (name, father , mother)>
+  <!ELEMENT queen (name, father , mother)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT father (#PCDATA)>
+  <!ELEMENT mother (#PCDATA)>
+]>
+
+
+<spanishMonarchs>
+  <king>
+    <name>Felipe III</name>
+    <father>Felipe II</father>
+    <mother>Ana de Austria</mother>
+  </king>
+  <queen>
+    <name>Juana la Loca</name>
+    <father>Fernando el Católico</father>
+    <mother>Isabel the Catholic</mother>
+  </queen>
+  <king>
+    <name>Carlos I</name>
+    <father>Felipe el Hermoso</father>
+    <mother>Juana la Loca</mother>
+  </king>
+</spanishMonarchs>

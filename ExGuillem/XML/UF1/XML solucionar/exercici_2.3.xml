@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pictures [
+  <!ELEMENT pictures (picture*)>
+  <!ELEMENT picture EMPTY>
+  <!ATTLIST picture title ID #REQUIRED>
+  <!ATTLIST picture author CDATA #REQUIRED>
+]>
+
+
+<pictures>
+  <picture title="Adán " author="Alberto Durero" />
+  <picture author="Lucas Cranach, el viejo" title="Eva" />
+</pictures>

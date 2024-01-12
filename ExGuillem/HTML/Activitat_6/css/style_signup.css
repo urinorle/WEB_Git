@@ -1,0 +1,26 @@
+.reqlogin {
+    width: 25%;
+    flex-flow: column;
+}
+#tex {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-flow: row;
+}
+#tex2 {
+    display: flex;
+    width: 100%;
+}
+label {
+    font-size: small;
+}
+.req {
+    width: 80%;
+}
+.req1 {
+    width: 95%;
+}
+.req2 {
+    margin-left: 25%;
+}
