@@ -1,0 +1,9 @@
+@media screen and (max-width: 800px) {
+    .navbar {
+        flex-direction: column;
+        align-items: center;
+    }
+    .navbar-nav .nav-link {
+        display: block;
+    }
+}
