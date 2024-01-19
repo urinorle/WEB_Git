@@ -4,76 +4,69 @@
     <meta charset="UTF-8">
     <title>Signup</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="css/style_login.css">
-    <link rel="stylesheet" href="css/style_signup.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
 <body>
-<header>
-    <a href="index.html"><img id="logo" src="img/logo.png" alt="logo"></a>
+<header class="bg-dark text-light text-center p-3">
+    <a href="index.html"><img id="logoa" src="img/logo.png" alt="logo" class="img-fluid"></a>
 </header>
 
-<nav>
-    <div id="nav-left">
-        <a href="index.html">Inici</a>
-        <a href="">Ofertes Feina</a>
-        <a href="">Contacte</a>
-    </div>
-    <div id="nav-rigth">
-        <a href="login.html">Login</a>
-        <a href="signup.html">Signup</a>
+<nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
+    <div class="container-fluid">
+        <div class="navbar-nav me-auto">
+            <a class="nav-link" href="index.html">Inici</a>
+            <a class="nav-link" href="ofertas.html">Ofertes Feina</a>
+            <a class="nav-link" href="contacte.html">Contacte</a>
+        </div>
+        <div class="navbar-nav ms-auto">
+            <a class="nav-link" href="login.html">Login</a>
+            <a class="nav-link" href="signup.html">Signup</a>
+        </div>
     </div>
 </nav>
-
-<div class="reqlogin">
-<form>
-    <div class="img1">
-        <h1>Signup</h1>
-        <img id="icon-pers" src="img/iconper.jpeg" alt="icon">
-    </div>
-    <div class="login">
-
-            <span id="tex">
-                <span>
-                    <label for="nombre"><b>Nom</b></label>
-                    <input class="reqtext req req1" type="text" id="nombre" placeholder="Introdueix l'usuari" required>
-                </span>
-                <span>
-                    <label for="apellidos"><b>Cognom</b></label>
-                    <input class="reqtext req req2" type="text" id="apellidos" placeholder="Introdueix l'usuari" required>
-                </span>
-            </span>
-
-
-            <span id="tex2">
-                <span>
-                    <label for="password"><b>Contrasenya</b></label>
-                    <input class="reqtext req" type="password" id="password" placeholder="Introdueix l'usuari" required>
-                </span>
-                <span>
-                    <label for="repetir-password"><b>Repeteix la contrasenya</b></label>
-                    <input class="reqtext req" type="password" id="repetir-password" placeholder="Introdueix l'usuari" required>
-                </span>
-            </span>
-
-
-
+<br>
+<br>
+<div class="container border">
+    <form>
+        <div class="text-center mb-4">
+            <h1>Signup</h1>
+            <br>
+            <img id="icon-pers" src="img/iconper.jpeg" alt="icon" class="img-fluid">
+        </div>
+        <div class="form-group">
+            <label for="nombre"><b>Nom</b></label>
+            <input class="form-control" type="text" id="nombre" placeholder="Introdueix l'usuari" required>
+        </div>
+        <div class="form-group">
+            <label for="apellidos"><b>Cognom</b></label>
+            <input class="form-control" type="text" id="apellidos" placeholder="Introdueix l'usuari" required>
+        </div>
+        <div class="form-group">
+            <label for="password"><b>Contrasenya</b></label>
+            <input class="form-control" type="password" id="password" placeholder="Introdueix l'usuari" required>
+        </div>
+        <div class="form-group">
+            <label for="repetir-password"><b>Repeteix la contrasenya</b></label>
+            <input class="form-control" type="password" id="repetir-password" placeholder="Introdueix l'usuari" required>
+        </div>
+        <div class="form-group">
             <label for="usuario"><b>Usuari</b></label>
-            <input class="reqtext" type="text" id="usuario" placeholder="Introdueix l'usuari" required>
-
+            <input class="form-control" type="text" id="usuario" placeholder="Introdueix l'usuari" required>
+        </div>
+        <div class="form-group">
             <label for="email"><b>E-mail</b></label>
-            <input class="reqtext" type="email" id="email" placeholder="Introdueix l'usuari" required>
-
-        <button class="button1" type="submit">Alta</button>
-    </div>
-
-    <div class="container1">
+            <input class="form-control" type="email" id="email" placeholder="Introdueix l'usuari" required>
+        </div>
+        <button class="btn btn-primary" type="submit">Alta</button>
+    </form>
+    <div class="mt-4">
         <p>Ja ets usuari? <a href="login.html">Login</a></p>
     </div>
-
-</form>
 </div>
+<br>
+<br>
 
-<footer>
+<footer class="bg-dark text-light text-center p-3">
     &copy; 2023 WorkTry
 </footer>
 

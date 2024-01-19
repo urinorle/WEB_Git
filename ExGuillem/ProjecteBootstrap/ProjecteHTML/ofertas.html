@@ -4,60 +4,66 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="css/feines.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
 <body>
-<header>
-  <a href="index.html"><img id="logo" src="img/logo.png" alt="logo"></a>
+<header class="bg-dark text-light text-center p-3">
+    <a href="index.html"><img id="logoa" src="img/logo.png" alt="logo" class="img-fluid"></a>
 </header>
-<nav>
-  <div id="nav-left">
-    <a href="index.html">Inici</a>
-    <a href="ofertas.html">Ofertes Feina</a>
-    <a href="contacte.html">Contacte</a>
-  </div>
-  <div id="nav-rigth">
-    <a href="login.html">Login</a>
-    <a href="signup.html">Signup</a>
-  </div>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
+    <div class="container-fluid">
+        <div class="navbar-nav me-auto">
+            <a class="nav-link" href="index.html">Inici</a>
+            <a class="nav-link" href="ofertas.html">Ofertes Feina</a>
+            <a class="nav-link" href="contacte.html">Contacte</a>
+        </div>
+        <div class="navbar-nav ms-auto">
+            <a class="nav-link" href="login.html">Login</a>
+            <a class="nav-link" href="signup.html">Signup</a>
+        </div>
+    </div>
 </nav>
-<main>
-    <h1 class="sub-tit">Totes les ofertes de feina:</h1>
-    <ul class="tabla">
-        <li class="work">
-            <a href="oferta4.html">
-                <h2>Data Developer</h2>
-                <p>Formacion de grado superior. Experiencia minima 3 años</p>
-                <p class="sub-req">Jornada flexible | Experiencia 3 años</p>
-                <img class="logo" src="img/bbva_logo.png" alt="">
-                <p>Bilbao</p>
-                <p>Hace 9h</p>
-            </a>
-        </li>
-        <li class="work">
-            <a href="oferta5.html">
-                <h2>Fullstack Developer React Native</h2>
-                <p>Ciclo Formativo Grado Superior. Experiencia minima 4 años</p>
-                <p class="sub-req">Jornada flexible | Experiencia 4 años</p>
-                <img class="logo" src="img/red_logo.png" alt="">
-                <p>Barcelona</p>
-                <p>Hace 6d</p>
-            </a>
-        </li>
-        <li class="work">
-            <a href="">
-                <h2>Software Developer</h2>
-                <p>Grado. Experiencia minima 5 años</p>
-                <p class="sub-req">Jornada flexible | Experiencia 5 años</p>
-                <img class="logo" src="img/Oracle_logo.svg.png" alt="">
-                <p>Heidelberg</p>
-                <p>Hace 1d</p>
-            </a>
-        </li>
-    </ul>
+<main class="container">
+    <br>
+    <br>
+    <h1 class="sub-tit mb-3">Totes les ofertes de feina:</h1>
+    <div class="list-group">
+        <a href="oferta4.html" class="list-group-item list-group-item-action">
+            <div class="d-flex w-100 justify-content-between">
+                <h5 class="mb-1">Data Developer</h5>
+                <small>Hace 9h</small>
+            </div>
+            <p class="mb-1">Formacion de grado superior. Experiencia minima 3 años</p>
+            <small>Jornada flexible | Experiencia 3 años</small>
+        </a>
+        <br>
+        <br>
+        <a href="oferta5.html" class="list-group-item list-group-item-action">
+            <div class="d-flex w-100 justify-content-between">
+                <h5 class="mb-1">Fullstack Developer React Native</h5>
+                <small>Hace 6d</small>
+            </div>
+            <p class="mb-1">Ciclo Formativo Grado Superior. Experiencia minima 4 años</p>
+            <small>Jornada flexible | Experiencia 4 años</small>
+        </a>
+        <br>
+        <br>
+        <a href="oferta3.html" class="list-group-item list-group-item-action">
+            <div class="d-flex w-100 justify-content-between">
+                <h5 class="mb-1">Software Developer</h5>
+                <small>Hace 1d</small>
+            </div>
+            <p class="mb-1">Grado. Experiencia minima 5 años</p>
+            <small>Jornada flexible | Experiencia 5 años</small>
+        </a>
+        <br>
+        <br>
+        <br>
+    </div>
 </main>
-<footer>
-  &copy; 2023 WorkTry
+<footer class="bg-dark text-light text-center p-3">
+    &copy; 2023 WorkTry
 </footer>
 </body>
 </html>
